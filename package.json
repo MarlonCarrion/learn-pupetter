@@ -1,0 +1,15 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "description": "Learning scrapping with pupetter",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test.js"
+  },
+  "author": "marlon carrion",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.3.0"
+  }
+}
